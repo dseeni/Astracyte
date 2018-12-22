@@ -2,7 +2,7 @@
 //  main.cpp
 //  Astracyte
 //
-//  Created by Thomas Anderson on 12/21/18.
+//  Created by Andrew Melnychuk on 12/21/18.
 //  Copyright © 2018 Extropia. All rights reserved.
 //
 
@@ -10,6 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "Xcode test!\n";
     return 0;
 }
