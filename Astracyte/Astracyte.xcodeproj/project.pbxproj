@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B56EAD2A21CE0828008DAF77 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B56EAD2921CE0828008DAF77 /* main.cpp */; };
+		B5BAD86A21CF210A009F9887 /* ch01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B5BAD86821CF210A009F9887 /* ch01.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		B56EAD2621CE0828008DAF77 /* Astracyte */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Astracyte; sourceTree = BUILT_PRODUCTS_DIR; };
 		B56EAD2921CE0828008DAF77 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B5BAD86821CF210A009F9887 /* ch01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ch01.cpp; sourceTree = "<group>"; };
+		B5BAD86921CF210A009F9887 /* ch01.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ch01.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				B56EAD2921CE0828008DAF77 /* main.cpp */,
+				B5BAD86821CF210A009F9887 /* ch01.cpp */,
+				B5BAD86921CF210A009F9887 /* ch01.hpp */,
 			);
 			path = XcodeTest;
 			sourceTree = "<group>";
@@ -119,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B56EAD2A21CE0828008DAF77 /* main.cpp in Sources */,
+				B5BAD86A21CF210A009F9887 /* ch01.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
